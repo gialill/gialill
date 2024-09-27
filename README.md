@@ -1,6 +1,11 @@
 ## Hello everyone! 👋
 
-I'm currently a student at the University of San Francisco studying Computer Science. I am originally from Wichita Kansas, but am now residing in the Bay Area.  
+I'm currently a student at the University of San Francisco studying Computer Science. I am a first year at my University and look forward to continuing my education. 
+
+I am originally from Wichita Kansas, but am now residing in the Bay Area.
+
+I am interested in game developement.
+
 
 
 <!--
