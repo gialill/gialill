@@ -1,5 +1,6 @@
 ## Hello everyone! 👋
 
+I'm currently a student at the University of San Francisco studying Computer Science. I am originally from Wichita, Kansas, but am not residing in the Bay Area. 
 
 
 <!--
